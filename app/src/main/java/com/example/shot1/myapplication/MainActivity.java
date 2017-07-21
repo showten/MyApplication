@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 // flagがtrueの時
                 if (flag) {
-                    textView.setText("Hello");
+                    textView.setText("Husayasu");
                     flag = false;
                 }
                 // flagがfalseの時
